@@ -367,7 +367,7 @@ Connect any app to third-party services cleanly. Payment gateways, OTP, maps, an
 ## Trophies
 
 <div align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=gulraiz12ab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7](https://trophygithubreadmelang.cybee.dpdns.org/?username=gulraiz12ab)" />
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=gulraiz12ab" />
 </div>
 
 ---
