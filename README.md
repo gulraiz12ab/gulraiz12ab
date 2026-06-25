@@ -416,4 +416,3 @@ Connect any app to third-party services cleanly. Payment gateways, OTP, maps, an
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0095,50:1e0050,100:0a0008&height=150&section=footer&text=Android%20%C2%B7%20Web%20%C2%B7%20Desktop%20%C2%B7%20Cloud%20%C2%B7%20Pakistan&fontSize=20&fontColor=9D7FFF&fontAlignY=65&animation=fadeIn" width="100%" />
 
 </div>
-**
